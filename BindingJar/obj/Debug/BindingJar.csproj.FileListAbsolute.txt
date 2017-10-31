@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingJar\BindingJar\obj\Debug\BindingJar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingJar\BindingJar\bin\Debug\BindingJar.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingJar\BindingJar\bin\Debug\BindingJar.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingJar\BindingJar\obj\Debug\BindingJar.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingJar\BindingJar\obj\Debug\BindingJar.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\BindingJar\BindingJar\obj\Debug\BindingJar.pdb
